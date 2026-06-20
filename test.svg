@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
+
+  <a href="https://example.com" target="_blank">
+    <rect x="50" y="40" width="400" height="70" fill="#4CAF50" rx="10"/>
+    <text x="250" y="85"
+          text-anchor="middle"
+          font-size="24"
+          fill="white">
+      Click Here
+    </text>
+  </a>
+
+</svg>
